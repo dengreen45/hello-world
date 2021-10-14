@@ -1,3 +1,3 @@
 # hello-world
-gitnub nubie here
+gitnub nubie here.
 just a math student sharpening his coding skills.
